@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm V. Sudharsan!
+# 👋 Hi there, I'm M.Thirumalai harish!
 
 ![Banner](https://github.com/Sudharsan555/Sudharsan555/blob/main/banner.gif)
 
